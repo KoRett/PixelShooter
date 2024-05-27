@@ -1,4 +1,0 @@
-repository "PixelShooter@Gadzhecs@cloud"
-  path "/"
-    br "/main"
-    co "/main"
